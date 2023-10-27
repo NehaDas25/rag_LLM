@@ -1,5 +1,0 @@
-OPENAI_API_BASE="https://api.openai.com/v1"
-OPENAI_API_KEY="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"
-ANYSCALE_API_BASE="https://api.endpoints.anyscale.com/v1"
-ANYSCALE_API_KEY="esecret_mx5w6dupkxma63czfcemj1kcfm"
-DB_CONNECTION_STRING="dbname=postgres user=postgres host=localhost password=postgres"
